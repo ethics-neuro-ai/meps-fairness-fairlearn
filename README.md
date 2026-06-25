@@ -1,5 +1,5 @@
 # 🩺 Algorithmic Fairness & Diagnostic Delay: Auditing Structural Violence via IPUMS MEPS
-
+(in progress..)
 Welcome to the **IPUMS MEPS Fairness Audit** project! This repository contains a comprehensive socio-technical case study demonstrating how systemic socioeconomic inequalities encode themselves into machine learning models, and how to actively mitigate these disparities using the [Fairlearn](https://fairlearn.org) framework.
 
 ---
